@@ -4,3 +4,5 @@
 - Git rất hữu ích
 - Học Git dễ dàng
 - Thực hành nhiều sẽ tốt
+- Git giúp quản lý version
+- Git giúp teamwork
