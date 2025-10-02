@@ -12,5 +12,10 @@ Kế hoạch học tập trong 1 tuần:
 
 Bắt đầu: 2025/10/2
 Kết thúc: 2025/10/9
+<<<<<<< Updated upstream
 - Ôn Linux cơ bản
 - Viết báo cáo Git
+=======
+- Làm project nhóm
+- Chuẩn bị thuyết trình
+>>>>>>> Stashed changes
