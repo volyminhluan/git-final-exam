@@ -1,0 +1,6 @@
+Tính năng mới:
+- Cho phép xuất báo cáo PDF
+- Hỗ trợ tìm kiếm nhanh
+- Giao diện thân thiện
+- Dễ bảo trì
+- Nâng cao hiệu suất
