@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình Python
 - Sử dụng Git
 - Làm việc nhóm
+
+Kế hoạch học tập:
+- Thứ 2: học Git
+- Thứ 3: ôn Python
+- Thứ 4: làm bài tập SQL
+- Thứ 5: luyện thuật toán
+- Thứ 6: thực hành dự án nhỏ
