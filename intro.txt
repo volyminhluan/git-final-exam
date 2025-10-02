@@ -1,0 +1,15 @@
+Xin chào, tôi là Võ Lý Minh Luân
+Tôi là sinh viên ngành Công nghệ thông tin.
+Hiện đang học tại trường Đại học Nam Cần Thơ.
+Tôi thích khám phá công nghệ mới.
+Mục tiêu của tôi là trở thành lập trình viên giỏi.
+
+Sở thích:
+- Đọc sách
+- Nghe nhạc
+- Chơi thể thao
+
+Kỹ năng:
+- Lập trình Python
+- Sử dụng Git
+- Làm việc nhóm
